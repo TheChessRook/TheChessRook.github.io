@@ -1,1 +1,1 @@
-###### Magic Chart
+# Magic Chart
